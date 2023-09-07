@@ -11,12 +11,12 @@ Proyecto realizado en el curso de NestJS de Fernando Herrera [https://cursos.dev
 [NestJS Documentación GrahpQL](https://docs.nestjs.com/graphql/quick-start)
 
 ## Gestores visuales para GraphQL
-[Apollo GraphOS](https://www.apollographql.com/) \
+[Apollo GraphOS](https://www.apollographql.com/) 
 
 
-[Altair](https://altairgraphql.dev/) gratuito y nueva opción \
-[Insomnia](https://insomnia.rest/) \
-[Postman](https://www.postman.com/) \
+[Altair](https://altairgraphql.dev/) gratuito y nueva opción 
+[Insomnia](https://insomnia.rest/) 
+[Postman](https://www.postman.com/) 
 
 
 ## Running the app
